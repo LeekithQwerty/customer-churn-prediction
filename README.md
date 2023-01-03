@@ -1,5 +1,5 @@
-# customer-churn-prediction
-
+# Customer-churn-prediction
+## Date: 17th December 2021
 Name: Telco churn dataset
 
 # Aim 
